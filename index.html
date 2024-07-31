@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Inter:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles/style.css">
+
+    <script src="app.js" defer></script>
+    <title>Decodificador</title>
+
+</head>
+
+<body>
+
+    <main class="container">
+
+        <div class="container__conteudo">
+
+            <div class="container__informacoes">
+
+                <div class="container__texto">
+
+                    <h1> <span class="container__texto-criptografar"> Criptografar </span> e <span
+                            class="container__texto-azul">Descriptografar</span></h1>
+                    <strong class="texto__paragrafo"> Digite sua mensagem para criptografar: </strong>
+
+                </div>
+
+                <div>
+
+                    <input type="text" class="container__input">
+
+                </div>
+
+                <div>
+
+                    <button onclick="criptografar__btn()" class="container__botao__criptografar">Criptografar</button>
+                    <button onclick="descriptografar__btn()"
+                        class="container__botao__descriptografar">Descriptografar</button>
+
+                </div>
+
+                <div>
+
+                    <button onclick="limpar__frases__citadas()" class="container__botao__limpar">Limpar frases
+                        citadas</button>
+
+                </div>
+
+                <p2 class="frases__criptografadas">Frases criptografadas:</p2>
+
+                <div class="container__lista">
+
+                    <ul id="lista-de-frases-criptografadas"></ul>
+
+                </div>
+
+
+                <div>
+
+                    <button onclick="copiarTexto()" class="container__botao__copiar">Copiar</button>
+
+                </div>
+
+
+                <p3 class="frases__descriptografadas">Frase descriptografada:</p3>
+
+                <div class="container__lista__descriptografadas">
+
+                    <ul id="lista-de-frases-descriptografadas"> </ul>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+    <!-- 
+    <footer class="rodape">
+
+        <p>Desenvolvido por RobsonLMDS</p>
+
+    </footer> -->
+
+</body>
+
+</html>
