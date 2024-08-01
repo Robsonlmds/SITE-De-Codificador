@@ -2,7 +2,7 @@ let listaDeFrasesCitadas = [];
 
 
 alert('Olá! Eu sou github.com/Robsonlmds.🩻\n' +
-    'Se precisar de ajuda ou informações, estou aqui para ajudar!');
+    'Se precisar de ajuda ou informações, estou aqui para ajudar!!');
 
 alert('⚠️ Atalhos de Uso:\n\n' +
     '➡️ Enter -> Criptografa\n' +
