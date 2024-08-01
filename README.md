@@ -13,10 +13,7 @@ Este é um projeto simples para criptografar e descriptografar mensagens usando 
     - [Limpar Frases Citadas](#limpar-frases-citadas)
     - [Atalhos de Teclado](#atalhos-de-teclado)
   - [Estrutura de Arquivos](#estrutura-de-arquivos)
-  - [Código Fonte](#código-fonte)
-    - [HTML](#html)
-    - [CSS](#css)
-    - [JavaScript](#javascript)
+
 
 ## Como Usar
 
@@ -47,11 +44,4 @@ Este é um projeto simples para criptografar e descriptografar mensagens usando 
 - **Enter**: Criptografa a mensagem inserida.
 - **Delete**: Limpa todas as frases citadas.
 
-## Estrutura de Arquivos
 
-```plaintext
-decodificador/
-├── index.html
-├── styles/
-│   └── style.css
-└── app.js
