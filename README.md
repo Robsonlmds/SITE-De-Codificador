@@ -1,6 +1,6 @@
 # De-Codificador
 
-Este é um projeto simples para criptografar e descriptografar mensagens usando o algoritmo AES-256-CBC. O projeto permite que você insira uma mensagem, criptografe-a, e então copie ou descriptografe a mensagem criptografada.
+Este é um projeto simples para criptografar e descriptografar mensagens usando o algoritmo de CriptoJS. O projeto permite que você insira uma mensagem, criptografe-a, e então copie ou descriptografe a mensagem criptografada.
 
 ## Índice
 
