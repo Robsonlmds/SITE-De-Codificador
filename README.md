@@ -12,7 +12,6 @@ Este é um projeto simples para criptografar e descriptografar mensagens usando 
     - [Copiar a Última Mensagem Criptografada](#copiar-a-última-mensagem-criptografada)
     - [Limpar Frases Citadas](#limpar-frases-citadas)
     - [Atalhos de Teclado](#atalhos-de-teclado)
-  - [Estrutura de Arquivos](#estrutura-de-arquivos)
 
 
 ## Como Usar
