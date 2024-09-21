@@ -1,5 +1,9 @@
 # De-Codificador
 
+<h1 align="center">
+  <img alt="bannerDecodificador" title="bannerDecodificador" src="./assets/bannerDecodificador.png" />
+</h1>
+
 Este é um projeto simples para criptografar e descriptografar mensagens usando o algoritmo de CriptoJS. O projeto permite que você insira uma mensagem, criptografe-a, e então copie ou descriptografe a mensagem criptografada.
 
 ## Índice
