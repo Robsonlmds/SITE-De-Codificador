@@ -1,4 +1,6 @@
-# De-Codificador
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=De+Codificador;" />
+</h1>
 
 <h1 align="center">
   <img alt="bannerDecodificador" title="bannerDecodificador" src="./assets/video-decodificador.gif" />
@@ -46,5 +48,10 @@ Este é um projeto simples para criptografar e descriptografar mensagens usando 
 
 - **Enter**: Criptografa a mensagem inserida.
 - **Delete**: Limpa todas as frases citadas.
+
+  
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Obrigado+pela+atenção!;" />
+</h1>
 
 
